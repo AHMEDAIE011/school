@@ -1,0 +1,42 @@
+nifiedtransform نظام اداره المدرسه 
+
+URL
+https://springgreen-chinchilla-871496.hostingersite.com
+
+GITHUB  طريقه الاستخدام
+https://github.com/AHMEDAIE011/school
+
+Admin login
+admin@ut.com
+password
+
+
+teacher login
+ahmed@teacher.com
+password
+auth/google/callback
+student login
+ahmed@student.com
+password
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+nifiedtransform نظام اداره الكورسات 
+
+URL
+https://lightgoldenrodyellow-sandpiper-482005.hostingersite.com/
+
+ طريقه الاستخدام
+https://jiourl.com/UjhghE
+
+Admin login
+admin@admin.com
+adminadmin
+
+teacher login
+instructor@gmail.com
+1234 or password
+
+student login
+student@gmail.com
+1234 or password
+
